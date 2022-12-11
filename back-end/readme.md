@@ -1,6 +1,6 @@
-# Project Title
+# Project Title : Chat with socket.io
 
-Backend of CHAT - SOCKET.IO projet for CDA at CESI
+Backend of projet for CDA at CESI
 by Barbara Lizama 🎈
 
 <!-- ## Getting Started
